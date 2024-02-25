@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="./images/hero.jpg" alt="Hi, I am simayosi!" width="1024" height="320" style="width: 100%; height: auto;">
 
 <!--
 **simayosi/simayosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
